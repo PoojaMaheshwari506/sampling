@@ -1,1 +1,1 @@
-# sampling
+In this project, we compare how well different machine learning models work with data that has an imbalance between the classes. Specifically, we work with a credit card dataset that classifies transactions as either fraudulent or not. The goal is to find the best model and technique for handling imbalanced data, which can help improve the accuracy of predictions in real-world situations.
